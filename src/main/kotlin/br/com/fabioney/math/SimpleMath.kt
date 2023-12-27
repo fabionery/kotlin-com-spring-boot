@@ -1,6 +1,5 @@
 package br.com.fabioney.math
 
-import org.springframework.web.bind.annotation.PathVariable
 import kotlin.math.sqrt
 
 class SimpleMath {
