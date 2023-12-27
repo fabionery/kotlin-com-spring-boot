@@ -1,4 +1,4 @@
-package br.com.fabioney.Exceptions
+package br.com.fabioney.exceptions
 
 import java.util.*
 

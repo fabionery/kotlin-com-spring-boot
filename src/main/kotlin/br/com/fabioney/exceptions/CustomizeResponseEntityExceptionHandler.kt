@@ -1,4 +1,4 @@
-package br.com.fabioney.Exceptions
+package br.com.fabioney.exceptions
 
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
